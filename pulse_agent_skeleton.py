@@ -1,3 +1,6 @@
+# Project Pulse - MIT License 2026 © Nicholas De Raj
+# Feel free to use, modify, and build upon — just keep the attribution!
+
 # Project Pulse - L402 Autonomous Arbitrage Agent (Feb 2026)
 # Recirculates 80% of Intelligence Premiums to USDC UBI pool
 # Requirements: pip install requests pyln-client  (for real Lightning)
